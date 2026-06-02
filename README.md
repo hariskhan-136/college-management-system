@@ -91,10 +91,6 @@ git clone https://github.com/hariskhan-136/college-management-system.git
 
 /includes/config.php
 
-4. Run project on local server (XAMPP/WAMP):
-
-http://localhost/college-management-system/
-
 ---
 
 ## 🌐 Live Demo
